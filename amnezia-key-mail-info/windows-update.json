@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "platform": "windows-x64",
+  "latest": {
+    "version": "5.1.0.33",
+    "date": "2026-11-01",
+    "description": "Нажмите «Обновить» в приложении и дождитесь его перезапуска.",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/v1.0.6",
+    "sha256": "03e0562cf4ab60a7d82e700f21aec1ab32a94093d32ee386290ded161528f7b3"
+  },
+  "signature": "Vei8gy8gZzZ88BO98MIhE0+Vsu1QUCSjj78xy6sZ2sRAe579U5a9PtlYr61ZL9eSMcusgxjtYlH4AwfNWwYpYLg9WdAupSZ44hlH0cK68IeP7n32y5oQxVMsBBvrdD4FOmqtqz7UfuJQKCV/PIyq2bqJa3b7lZnLYPPW8wcNjwA926EU6meopU7kBgj4uV98O/kNrL+qAjzdjkPkZlHysIjWw2XCI46E4soFcND8Mkv3w8k6/Zpfo0LBB3GG3LVVPYVEyXaor4px9ywtjeSVegZENMWxw2ALRBAxDYaNMUMAAt6A+KjcOufTIKyW2zS/OgJ31HvMRY9R2andeZKfgqYbAomzcqp4cfIk0WQ9woSZa2yvaGnWlDz+WP1a9QKlcSJDMgxZpeLTOTKLmJj1H45rcJSdwIogbkFhw4DZ1Hif5aIlCBjixjWuQqcaFGuqZgXlLWN0admAePh87JTuy/vZj+FfLqBWAjNI6nR9LtFw2ihydyl67lsaMXV28Byt"
+}
