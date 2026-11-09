@@ -2,11 +2,11 @@
   "schema": 1,
   "platform": "windows-x64",
   "latest": {
-    "version": "5.1.0.37",
-    "date": "2026-11-04",
-    "description": "Ускорено подключение через мост",
-    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/r29",
-    "sha256": "eaeb84008aecb6c78fadbde3a7ff9b9931c444de236679affca76ac136744f7c"
+    "version": "5.1.0.58",
+    "date": "2026-11-09",
+    "description": "Добавлено автоматическое туннелирование, улучшена скорость, доработан протокол маскировки",
+    "release_url": "https://github.com/MursikJN/amnezia-key-mail-info/releases/tag/r38",
+    "sha256": "16369e458a15cc9ee286038c312058aaec84a5c4989a52919eb44bdefe674a81"
   },
-  "signature": "yxmKI5AjJ3tIFxO8YAf22tnwqe1P20sBYkJyyKwQQVO6iTpXy0tdnkD8JrNTd3c6kCdqWeGlRjOw+jb5XSQipn4DMqSw2CJoAqucBkCpLgLQsg2HT0TJ29eZmuqvPh/rAlNqOG3NnXdbvUkaXoNON+gAZaKRkrYYnDaqKy46EbebiuRn0RgNMsgHFva13al1dnXZ0TGYsXJsAQa9sxdXYvLBBrJqus919BJmSKTQvNBszDkK9y3gviJOIN76agVkTA2xGmHy55YCJQBC4jo7N9vs9/l0xBmoakgawb9Cr8Pmmwh8UAw/08MuZSJTCAmBfgRR2HLQZ3aeUiWkGVlvspFoI2XCHpxhCOIYTXKC0syIwc/SgQ2WiTF4MsKiV9EWRR0QP3xFDrvkS5QeTVZAjLnkx5luAvwrnBSvMJKO9ORZj/NRX6lv6c8yYQPp+/6BuUJWNFH1zdpVRWcTJJJDQKhzXiFO2DgYgAd/BAp1eatUdZpsXsUjfjnrofuGcbMk"
+  "signature": "Abq7j2hoelXkbkzXFvrlOVI9bAMTkpjg+cA1CAkrbtSLAcKfZM79ruVL+/Q9/+Ocs3VWjQACCc6XjmBjxKroeCfdY1EB6gzWHxIUcHhWfMIo0drNQS8k+TQh8JNUiMEVu9QABdeTw+uSyxh5wDoUnLAg5m7xUU/H1ubp8oQq0m1UgdbbLGo28PFdqbTH8RJq/0VCV15girEI4OwWzc3zBRozN9OZr3FKNsWW6CzeKUZQ6vUtgMgJnavSXRPJKXLhhXdDMLQIwdprunEx0BkpOstadl+qa7S1Ue2AAh/Fb40Cqg7mVG0a/LJ3qPYC/9w6n9S1s+qe0W5cCXB878/rf1sz0yuQQs2UWVRlXDd8N68ku8uaiQWZTorMY8vtIfyW2YFsGJqZSM1VlKSVmb2o/hkgTg8gpsKF+ASCkiOy4ZF7DamZlrU+Pu3NmaJz6CjpSpjl8uo9sdrx9e1+TXrV5zKhudKdHbfRBNTN/E8R0iJg/nv6b9MDfzI1AEZbLrGV"
 }
